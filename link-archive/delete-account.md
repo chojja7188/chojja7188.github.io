@@ -22,6 +22,21 @@ If you have access to the app, you can also sign in and go to **Settings → Del
 
 [Link Archive Privacy Policy](/link-archive/privacy/)
 
+<div id="delete-data" lang="en" markdown="1">
+
+## Delete saved link data without deleting your account
+
+1. In Link Archive, open the saved link’s edit screen and select **Delete**. Confirm the deletion.
+2. If you use sync, connect to the internet and tap **Settings → Sync Now** to sync the deletion.
+
+You can also [request saved link deletion by email](mailto:linkarchive.app@gmail.com?subject=Link%20Archive%20saved%20link%20deletion). Send the request from the Google email address you use for Link Archive and identify the link you want deleted. Keep your password and verification codes private. We will verify the request and email you when it is complete.
+
+After syncing, the link is removed from your list and its description, thumbnail, and category associations are cleared from the server. A deletion record remains until you delete your account. It includes the link ID, up to the first 100 characters of the URL, and metadata such as timestamps. Your account stays active.
+
+[한국어로 링크 삭제 방법 보기](#delete-data-ko)
+
+</div>
+
 <div id="korean" lang="ko" markdown="1">
 
 ## 링크 아카이브 계정 삭제
@@ -39,5 +54,14 @@ If you have access to the app, you can also sign in and go to **Settings → Del
 - 내보낸 백업 파일은 저장한 곳에서 직접 삭제할 수 있습니다. 다른 기기에 남은 로컬 데이터는 해당 기기에서 앱 데이터를 지우거나 앱을 삭제하면 제거됩니다.
 
 [링크 아카이브 개인정보처리방침](/link-archive/privacy/ko/)
+
+<h2 id="delete-data-ko">계정을 유지하면서 저장한 링크 데이터 삭제하기</h2>
+
+1. 링크 아카이브에서 저장한 링크의 편집 화면을 열고 **삭제**를 눌러 확인하세요.
+2. 동기화를 사용하는 경우 인터넷에 연결한 뒤 **설정 → 지금 동기화**를 누르세요.
+
+앱을 사용할 수 없다면 [링크 삭제를 이메일로 요청](mailto:linkarchive.app@gmail.com?subject=Link%20Archive%20saved%20link%20deletion)할 수 있습니다. 링크 아카이브에 사용하는 Google 이메일 주소로 삭제할 링크를 알려주세요. 비밀번호와 인증 코드는 보내지 마세요. 요청을 확인하고 처리한 뒤 이메일로 알려드립니다.
+
+동기화가 끝나면 목록에서 링크가 사라지고 서버에서 링크의 설명, 썸네일, 카테고리 연결이 삭제됩니다. 링크 ID, URL의 처음 최대 100자, 시각 등 삭제 기록은 계정을 삭제할 때까지 남습니다. 계정은 계속 사용할 수 있습니다.
 
 </div>
