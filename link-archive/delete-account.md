@@ -18,6 +18,7 @@ If you have access to the app, you can also sign in and go to **Settings → Del
 
 - Once deletion is processed, we remove your Link Archive sign-in record, including your account ID, email, name and profile photo information if provided, along with synced links, descriptions, thumbnails, categories, favorites, and associated timestamps. These records have no additional retention period after deletion.
 - Supabase API and database logs, which can include IP addresses and access timestamps, are kept for up to 24 hours from logging for security and troubleshooting.
+- Error reports sent when the app crashes or hits an error are not linked to your account (they use a random per-install identifier, not your email) and are deleted automatically within 90 days.
 - To remove copies you exported, delete the backup files where you saved them. To remove data held locally on another device, clear the app's data or uninstall it on that device.
 
 [Link Archive Privacy Policy](/link-archive/privacy/)
@@ -51,6 +52,7 @@ After syncing, the link is removed from your list and its description, thumbnail
 
 - 삭제가 처리되면 계정 ID, 이메일, 이름과 프로필 사진 정보(제공된 경우), 동기화한 링크, 설명, 썸네일, 카테고리, 즐겨찾기와 관련 시각 정보를 삭제합니다. 삭제 후 추가 보관 기간은 없습니다.
 - 접속 IP와 접속 시각이 포함될 수 있는 Supabase API 및 데이터베이스 로그는 보안과 오류 대응을 위해 기록 시점부터 최대 24시간 보관됩니다.
+- 앱 오류 시 전송된 오류 기록은 계정과 연결되지 않으며(이메일 대신 설치마다 만든 무작위 식별자 사용) 최대 90일 뒤 자동 삭제됩니다.
 - 내보낸 백업 파일은 저장한 곳에서 직접 삭제할 수 있습니다. 다른 기기에 남은 로컬 데이터는 해당 기기에서 앱 데이터를 지우거나 앱을 삭제하면 제거됩니다.
 
 [링크 아카이브 개인정보처리방침](/link-archive/privacy/ko/)
