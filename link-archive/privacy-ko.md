@@ -13,6 +13,8 @@ lang: ko
   <a href="/link-archive/privacy/ko/" lang="ko" hreflang="ko" aria-current="page">한국어</a>
 </nav>
 
+<div lang="ko" markdown="1">
+
 # 개인정보처리방침
 
 시행일: 2026-11-13
@@ -88,3 +90,5 @@ Link Archive 개발자(이하 "운영자")는 Link Archive 앱(이하 "앱")을 
 ## 10. 변경
 이 방침이 바뀌면 시행 7일 전(이용자에게 불리한 변경은 30일 전) 앱 또는 이 페이지에서 알립니다.
 
+
+</div>

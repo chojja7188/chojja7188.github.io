@@ -13,6 +13,8 @@ lang: en
   <a href="/link-archive/privacy/ko/" lang="ko" hreflang="ko">한국어</a>
 </nav>
 
+<div lang="en" markdown="1">
+
 # Privacy Policy
 
 Effective: 2026-11-13
@@ -36,3 +38,5 @@ Effective: 2026-11-13
 **Contact.** Link Archive developer · linkarchive.app@gmail.com
 
 **Changes.** We will announce changes in the app or on this page before they take effect.
+
+</div>
