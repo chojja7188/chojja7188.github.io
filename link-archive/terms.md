@@ -17,7 +17,7 @@ permalink: /link-archive/terms/
 
 ## 3. 계정
 - 계정은 구글 로그인으로 만들어지며, 계정 관리 책임은 이용자에게 있습니다.
-- 이용자는 언제든 앱 설정 › 계정 삭제로 탈퇴할 수 있고, 탈퇴 시 서버의 데이터는 즉시 삭제되어 복구할 수 없습니다.
+- 이용자는 언제든 앱의 계정 · 동기화 화면 › 계정 삭제로 탈퇴할 수 있고, 탈퇴 시 서버의 데이터는 즉시 삭제되어 복구할 수 없습니다.
 
 ## 4. 이용자의 의무
 다음 행위를 하면 안 됩니다.
@@ -55,7 +55,7 @@ linkarchive.app@gmail.com
 Effective: 2026-11-13
 
 1. **Service.** Link Archive lets you save and search links for free. Signing in with Google enables sync across devices. We may set usage limits (currently 1,000 links per account) and show ads.
-2. **Account.** You can delete your account anytime in Settings; server data is deleted immediately and cannot be recovered.
+2. **Account.** You can delete your account anytime in Account & Sync › Delete Account; server data is deleted immediately and cannot be recovered.
 3. **Acceptable use.** Do not store or distribute illegal content or malware links, overload the servers, or try to access others' data. We may restrict or delete accounts that violate this.
 4. **Your content.** You own what you save. We use it only to store and sync it for you. We are not responsible for external websites you link to.
 5. **Changes and termination.** We may change or discontinue the service. We will give at least 30 days' notice before ending sync; data on your device remains usable.
