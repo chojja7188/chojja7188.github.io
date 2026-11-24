@@ -35,7 +35,7 @@ Effective: 2026-11-13
 
 **Children.** Not directed to children under 13 (under 14 in Korea). We delete such data when we learn of it.
 
-**Contact.** Link Archive developer · linkarchive.app@gmail.com
+**Contact.** Privacy officer: Chojja Dev (developer) · linkarchive.app@gmail.com
 
 **Changes.** We will announce changes in the app or on this page before they take effect.
 

@@ -7,7 +7,7 @@ permalink: /link-archive/terms/
 시행일: 2026-11-13
 
 ## 1. 목적
-이 약관은 Link Archive 개발자(이하 "운영자")가 제공하는 Link Archive 앱(이하 "서비스")의 이용 조건을 정합니다.
+이 약관은 Link Archive 개발자 Chojja Dev(이하 "운영자")가 제공하는 Link Archive 앱(이하 "서비스")의 이용 조건을 정합니다.
 
 ## 2. 서비스 내용
 - 링크(URL)와 설명·썸네일·카테고리를 저장하고 검색하는 기능을 무료로 제공합니다.
